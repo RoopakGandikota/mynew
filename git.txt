@@ -1,0 +1,12 @@
+Git init:
+	The git init command is used to create a new blank repository. It is used 
+to make an existing project as a Git project. Several Git commands run inside the 
+repository, but init command can be run outside of the repository.
+	
+HP@DESKTOP-N12IHB7 MINGW64 ~ (master)
+$ git init
+Reinitialized existing Git repository in C:/Users/HP/.git/
+
+Git add :
+	The git add command adds new or changed files in your working directory to 
+the Git staging area.
